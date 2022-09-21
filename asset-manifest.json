@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wuyulunbi/static/css/main.77000b79.css",
+    "main.js": "/wuyulunbi/static/js/main.81ee68b9.js",
+    "index.html": "/wuyulunbi/index.html",
+    "main.77000b79.css.map": "/wuyulunbi/static/css/main.77000b79.css.map",
+    "main.81ee68b9.js.map": "/wuyulunbi/static/js/main.81ee68b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77000b79.css",
+    "static/js/main.81ee68b9.js"
+  ]
+}
